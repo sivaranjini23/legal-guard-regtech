@@ -91,10 +91,10 @@ export default function Login() {
                         </div>
                     </div>
                     <h2 className="text-3xl font-bold text-white mb-2">
-                        Welcomeee back
+                        Welcomeee back!!
                     </h2>
                     <p className="text-gray-300">
-                        Sign in to your LegalGuard account user!!!
+                        Sign in to your LegalGuard account user!!!!
                     </p>
                 </div>
 
