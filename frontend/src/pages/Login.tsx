@@ -91,7 +91,11 @@ export default function Login() {
                         </div>
                     </div>
                     <h2 className="text-3xl font-bold text-white mb-2">
+<<<<<<< HEAD
                         Welcomeee back!!
+=======
+                        Welcome back
+>>>>>>> 5221fe96cff46ab00c48ee421419ed4a1ba2ee93
                     </h2>
                     <p className="text-gray-300">
                         Sign in to your LegalGuard account user!!!!
